@@ -1,6 +1,6 @@
 # Git e GitHub
 
-Nosso curso de Git e GitHub Supimpa !!!
+Nosso curso de Git e GitHub Supimpa do Teo Calvo !!!
 
 ## Dia 01
 
