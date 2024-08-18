@@ -9,4 +9,6 @@ Desde como criar um repositório local, até merge de branches.
 
 ## Dia 02
 
-Aprendi os comandos rm e push
+Aprendi os seguintes comandos:
+- Remover arquivo: git rm;
+- Fazer atualização do repositório: push
